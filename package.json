@@ -1,0 +1,23 @@
+{
+  "name": "algorithm-in-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dangvanthanh/algorithm-in-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dangvanthanh/algorithm-in-javascript/issues"
+  },
+  "homepage": "https://github.com/dangvanthanh/algorithm-in-javascript#readme",
+  "devDependencies": {
+    "jest": "^25.3.0"
+  }
+}

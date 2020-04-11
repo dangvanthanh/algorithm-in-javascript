@@ -5,3 +5,5 @@ function repeatString(str, repeat) {
         .join('')
     : '';
 }
+
+module.exports = repeatString;

@@ -1,5 +1,5 @@
-function minimumDistances() {
-  let a = [2, 5, 3, 7, 2, 3];
+function minimumDistances(a) {
+  //  let a = [2, 5, 3, 7, 2, 3];
   let distances = [];
 
   for (let i = 0; i < a.length; i++) {
@@ -19,3 +19,5 @@ function minimumDistances() {
     return distances[0];
   }
 }
+
+module.exports = minimumDistances;
